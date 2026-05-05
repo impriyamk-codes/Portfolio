@@ -40,6 +40,7 @@ export const projects = [
     description:
       "Built and deployed responsive WordPress websites, managing full development lifecycle from server setup to go-live. Optimized performance and SEO using Kadence and custom CSS, while integrating design assets for consistent UI/UX.",
     tech: ["WordPress", "Kadence", "Elementor", "CSS", "HTML"],
+    github: "",
     demo: "https://www.gracementalhealth.org/",
   },
 
@@ -48,6 +49,7 @@ export const projects = [
     description:
       " Designed custom graphics and branding materials for clients, delivering high-quality visual content that enhanced their online presence and marketing efforts.",
     tech: ["Canva", "Google Aistudio", "Adobe Photoshop", "Figma"],
+    github: "",
     demo: "https://drive.google.com/drive/folders/1IplPJLOWar_asPjK-B569nAUYsOtUxwv?usp=sharings", 
   },
 ];
