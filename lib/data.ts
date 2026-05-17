@@ -4,7 +4,7 @@ export const personal = {
   email: "impriyam.kworks@gmail.com",
   github: "https://github.com/impriyamk-codes",
   linkedin: "https://www.linkedin.com/in/priyam-kundu-62834328a",
-  resume: "https://drive.google.com/file/d/1BxyJgG9OY7YSDPSnE_tSq-cmy0yCgu1A/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1lKccjRYkedkOdntoCMC13QMuGcMCIBTC/view?usp=sharing",
   about: `I’m a Computer Science student focused on building practical AI/ML solutions beyond theory. I work on applying machine learning and NLP to real-world problems, building end-to-end projects from data processing to usable systems. Alongside this, I strengthen my fundamentals through data structures and problem-solving. 
 Currently open to internship opportunities where I can contribute and grow while building impactful solutions.`,
 };
